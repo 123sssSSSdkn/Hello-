@@ -1,0 +1,85 @@
+    },
+    {
+        "id": 16,
+        "name": "And Pictures HD",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png",
+        "category": "Movies",
+        "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/AndPicturesHD_MOB/WDVLive/index.mpd",
+        "token": "__hdnea__=st=1773588706~exp=1773675106~acl=/*~hmac=31e5bc68930de3e1ecadf60d21871af0cc0106c2c21b562c0e653b075411a40d",
+        "referer": "https://www.jiotv.com/",
+        "userAgent": "servertvhub",
+        "drm": {
+            "09187bccb7ec59428352a31b4b321ce0": "25b08b1c7a004e43ef92c239f93e6613"
+        },
+        "added_on": "2026-03-16 06:35:20"
+    },
+    {
+        "id": 17,
+        "name": "CNBC Awaaz",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Awaaz.png",
+        "category": "Business News",
+        "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/CNBC_Awaaz_BTS/output/index.mpd",
+        "token": "__hdnea__=st=1773588706~exp=1773675106~acl=/*~hmac=31e5bc68930de3e1ecadf60d21871af0cc0106c2c21b562c0e653b075411a40d",
+        "referer": "https://www.jiotv.com/",
+        "userAgent": "servertvhub",
+        "drm": {
+            "4b6fa3ba1098544089226b314f624e75": "8fd6f93bcc1ec1fdfff2ba5f7fce4955"
+        },
+        "added_on": "2026-03-16 06:35:20"
+    },
+    {
+        "id": 18,
+        "name": "CNN",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/CNN.png",
+        "category": "News",
+        "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/CNN_BTS/output/index.mpd",
+        "token": "__hdnea__=st=1773588706~exp=1773675106~acl=/*~hmac=31e5bc68930de3e1ecadf60d21871af0cc0106c2c21b562c0e653b075411a40d",
+        "referer": "https://www.jiotv.com/",
+        "userAgent": "servertvhub",
+        "drm": {
+            "056cd34f1064579190844b76aabaad5f": "319e62e2cc92c257bce26205a58c484b"
+        },
+        "added_on": "2026-03-16 06:35:20"
+    },
+    {
+        "id": 19,
+        "name": "Colors Gujarati",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati.png",
+        "category": "Entertainment",
+        "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Gujarati_BTS/output/index.mpd",
+        "token": "__hdnea__=st=1773588706~exp=1773675106~acl=/*~hmac=31e5bc68930de3e1ecadf60d21871af0cc0106c2c21b562c0e653b075411a40d",
+        "referer": "https://www.jiotv.com/",
+        "userAgent": "servertvhub",
+        "drm": {
+            "6e27c4a5f43e504fa5f9d39e880687d1": "0baa1de589cf31b80cac8391466d7ad6"
+        },
+        "added_on": "2026-03-16 06:35:20"
+    },
+    {
+        "id": 20,
+        "name": "Colors Oriya",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Oriya.png",
+        "category": "Entertainment",
+        "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/ColorsOriya_BTS/output/index.mpd",
+        "token": "__hdnea__=st=1773588706~exp=1773675106~acl=/*~hmac=31e5bc68930de3e1ecadf60d21871af0cc0106c2c21b562c0e653b075411a40d",
+        "referer": "https://www.jiotv.com/",
+        "userAgent": "servertvhub",
+        "drm": {
+            "83f6aa30230852c3af409b10ae9a51ac": "b04c71550e63311f9f295bb3e58a7044"
+        },
+        "added_on": "2026-03-16 06:35:20"
+    },
+    {
+        "id": 21,
+        "name": "DD National",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png",
+        "category": "Entertainment",
+        "mpd": "https://jiotvmblive.cdn.jio.com/bpk-tv/DD_National_BTS/output/index.mpd",
+        "token": "__hdnea__=st=1773588706~exp=1773675106~acl=/*~hmac=31e5bc68930de3e1ecadf60d21871af0cc0106c2c21b562c0e653b075411a40d",
+        "referer": "https://www.jiotv.com/",
+        "userAgent": "servertvhub",
+        "drm": {
+            "4b1521eed3df5f339451bce846950abd": "b32833fe11a251724bc6c0b84cc02449"
+        },
+        "added_on": "2026-03-16 06:35:20"
+    },
